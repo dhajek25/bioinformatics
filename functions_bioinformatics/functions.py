@@ -28,5 +28,6 @@ def dna_nucleotides_count(s):
 
 result = dna_nucleotides_count(s)
 print(result)
+"""Hello Iam yellow"""
 
 
